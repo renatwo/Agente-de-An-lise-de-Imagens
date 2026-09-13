@@ -86,3 +86,5 @@ Agente-de-Analise-de-Imagens/
 ├── .env.example
 ├── .gitignore
 └── README.md
+
+   <!-- PR Test 1 -->
